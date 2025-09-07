@@ -1,7 +1,8 @@
 # Call Center Analysis
 
 ### Overview
-Analysis of customer call data to identify trends in call reasons, locations, and sentiment using R
+This project was completed as part of a **Data Science course**.  
+The goal was to analyze a call center dataset to answer key business questions about customer behavior and satisfaction.  
 
 ### Key Insights
 - Main call reasons: billing, payments, service outages  
